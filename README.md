@@ -13,9 +13,9 @@ jr is a simple bash script to jump to the project root from its child directorie
     vim ~/.bashrc
     ```
   * Add this line to the file.
-  ```
-  alias jr='/opt/jr/jr'
-  ```
+    ```
+    alias jr='/opt/jr/jr'
+    ```
 
 ## Adding files to match
 
