@@ -2,7 +2,7 @@
 
 
 START_PATH=$PWD
-FILE_NAMES=('.git' 'venv' 'pom.xml')
+FILE_NAMES=('.git' 'venv' 'pom.xml', 'README.md')
 
 function join_by { local d=$1; shift; echo -n "$1"; shift; printf "%s" "${@/#/$d}"; }
 
